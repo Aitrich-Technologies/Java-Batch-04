@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .welcome 
+        {
+        position: absolute;
+        left: 1px;
+        }
+        .wonder
+        {
+          position:absolute;
+          top:50px;
+          left: 1000px;
+          color: white;
+          animation: first 1s alternate infinite ease;
+
+        }
+        @keyframes first 
+        {
+            0%{transform: translate(20px,20px);}
+            100%{transfom:translate(20px,20px);}
+        }
+        #about
+        {
+            position: absolute;
+            left: 1000px;
+            top: 130px;
+            color:white;
+        }
+        #about:hover
+        {
+            background-color: yellow;
+            border-radius:10px ;
+            color: black;
+        }
+        #gallery
+        {
+            position: absolute;
+            left: 1100px;
+            top: 130px;
+            color:white;
+        }
+        #gallery:hover
+        {
+            background-color: yellow;
+            border-radius:10px ;
+            color: black;
+        }
+        #act
+        {
+             position: absolute;
+            left: 1200px;
+            top: 130px;
+            color:white;
+        }
+        #act:hover
+        {
+            background-color: yellow;
+            border-radius:10px ;
+            color: black;
+        }
+        #con
+        {
+          position: absolute;
+            left: 1350px;
+            top: 130px;
+            color:white;   
+        }
+        #con:hover
+        {
+        background-color: yellow;
+            border-radius:10px ;
+            color: black;    
+        }
+        .aboutus
+        {
+            position: absolute;
+            left: 400px;
+            top: 250px;
+        }
+        #one 
+        {
+            position: absolute;
+            left: 600px;
+        }
+        #line
+        {
+            position: absolute;
+            color: black;
+            left: 500px;
+        }
+        .aboutus:hover
+        {
+            animation: shake 2s;
+            animation-iteration-count: infinite;
+        }
+        @keyframes shake
+        {
+            0%{transform: translate(3px,3px) ;}
+            100%{transform: translate(3px,3px) ;}
+        }
+        .color
+        {
+            position: absolute;
+            top: 500px;
+            left: 400px;
+        }
+        #ga
+        {
+            position: absolute;
+            left: 600px;;
+        }
+        .red
+        {
+            position: absolute;
+            left:100px;
+            top: 100px;
+            
+        }
+        #im1
+        {
+            position: absolute;
+            top:50px;
+            left:50px;
+            color: white;
+        }
+        .red:hover
+        {
+            animation: rr 2s ;
+            animation-iteration-count: infinite;
+        
+        }
+        @keyframes rr 
+        {
+             0%{transform: translate(3px,3px) ;}
+            100%{transform: translate(3px,3px) ;}
+        }
+        .blue
+        {
+            position: absolute;
+            left:340px;
+            top: 100px;
+            color: white;
+        }
+        #im1
+        {
+            position: absolute;
+            top:50px;
+            left:50px;
+            color: white;
+        }
+        .blue:hover
+        {
+            animation: rr 2s ;
+            animation-iteration-count: infinite;
+        
+        }
+        @keyframes rr 
+        {
+             0%{transform: translate(3px,3px) ;}
+            100%{transform: translate(3px,3px) ;}
+        }
+        .green
+        {
+             position: absolute;
+            left:590px;
+            top: 100px;
+            color: white;
+        }
+        .green:hover
+         {
+            animation: rr 2s ;
+            animation-iteration-count: infinite;
+        
+        }
+        @keyframes rr 
+        {
+             0%{transform: translate(3px,3px) ;}
+            100%{transform: translate(3px,3px) ;}
+        }
+        .yellow
+        {
+        position: absolute;
+            left:850px;
+            top: 100px;
+            color: white;    
+        }
+        .yellow:hover
+        {
+            animation: rr 2s ;
+            animation-iteration-count: infinite;
+        
+        }
+        @keyframes rr 
+        {
+             0%{transform: translate(3px,3px) ;}
+            100%{transform: translate(3px,3px) ;}
+        }
+        .violet
+         {
+        position: absolute;
+            left:1100px;
+            top: 100px;
+            color: white;    
+        }
+        .violet:hover
+         {
+            animation: rr 2s ;
+            animation-iteration-count: infinite;
+        
+        }
+        @keyframes rr 
+        {
+             0%{transform: translate(3px,3px) ;}
+            100%{transform: translate(3px,3px) ;}
+        }
+        .play
+        {
+            position: absolute;
+            top: 1000px;
+            left: 400px;
+        }
+         #fun
+        {
+            position: absolute;
+            left: 600px;;
+        }
+        #art
+        {
+            position: absolute;
+            left: 100px;
+            top: 100px;
+        }
+        #shop
+        {
+            position: absolute;
+            left: 20px;
+            top:10px;
+        
+            
+        }
+        #art:hover
+        {
+            animation: zzz 1s alternate infinite ease;
+            
+        }
+        @keyframes zzz
+        {
+            0%{transform: translateX(0px);}
+            100%{transform: translateX(100px);}
+        }
+        #music
+        {
+        position: absolute;
+            left: 100px;
+            top: 200px;    
+        }
+        #music:hover
+         {
+            animation: zzz 1s alternate infinite ease;
+            
+        }
+        @keyframes zzz
+        {
+            0%{transform: translateX(0px);}
+            100%{transform: translateX(100px);}
+        }
+        #perfor
+         {
+        position: absolute;
+            left: 100px;
+            top: 300px;    
+        }
+        #perfor:hover
+         {
+            animation: zzz 1s alternate infinite ease;
+            
+        }
+        @keyframes zzz
+        {
+            0%{transform: translateX(0px);}
+            100%{transform: translateX(100px);}
+        }
+        #parties
+         {
+        position: absolute;
+            left: 100px;
+            top: 400px;    
+        }
+        #parties:hover
+         {
+            animation: zzz 1s alternate infinite ease;
+            
+        }
+        @keyframes zzz
+        {
+            0%{transform: translateX(0px);}
+            100%{transform: translateX(100px);}
+        }
+        .number
+        {
+          position: absolute;
+            top: 700px;
+            left: 10px;  
+
+            
+
+        }
+        #get
+        {
+            position: absolute;
+            left: 600px;
+        }
+        .last:hover
+        {
+            background-color:blue;
+            animation: nnn 1s alternate infinte ease;
+        }
+        @keyframes nnn
+        {
+            0%{
+                transform: translate(10px,1px) sacle(10,10);
+
+            }
+            50%{transform: translate(1px,1px) sacle(0,0);
+
+            }
+            100%
+            {
+                transform: translate(1px,1px) sacle(10,10);
+            }
+
+        }
+
+
+        
+
+
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+    </style>
+</head>
+<body>
+    <div class="welcome" style="width: 2500px; height:200px; background:linear-gradient(red,rgb(137, 137, 208));">
+     <h1 class="wonder">welcome to playfull wonder land!</h1>
+     <br> <br>
+    <h2 id="about">About </h2>
+    <h2 id="gallery">Gallery</h2>
+    <h2 id="act">Activities</h2>
+    <h2 id="con">Contact</h2>
+    </div>
+    <br>
+    <br>
+    <div class="aboutus" style="width:1500px; height:200px; background-color: aliceblue; border: snow;" >
+<h1 id="one" style="color: red;">About us</h1>
+<br><br><br>
+<p id="line">enjoy the small lifetime with familiy,friends and nature.ghhhhhggffffgghhhhhh</p>
+    </div>
+    <div class="color" style="width: 1500px; height:400px; background-color: aliceblue;">
+        <h1 id="ga"  style="color: red;">Gallery</h1>
+        <div class="red" style="width: 200px; height:200px;background-color: red;">
+            <h2 id="im1">Image 1</h2>
+
+        </div>
+        <div class="blue" style="width: 200px; height:200px;background-color: blue;" >
+            <h2 id="im1">Image 2</h2>
+
+        </div>
+        <div class="green" style="width: 200px; height:200px;background-color:greenyellow;"   >
+             <h2 id="im1">Image 3</h2>
+
+        </div>
+        <div class="yellow" style="width: 200px; height:200px;background-color:yellow;" >
+            <h2 id="im1">Image 4</h2>
+
+        </div>
+        <div class="violet" style="width: 200px; height:200px;background-color:blueviolet;" >
+          <h2 id="im1">Image 5</h2>  
+
+        </div>
+    </div>
+    <div class="play" style="width: 1800px; height:600px; background-color: aliceblue;">
+        <h1 id="fun" style="color: red;">fun activites</h1>
+    <div id="art" style="width: 1300px; height:80px; background-color: coral; border-radius: 10px;">
+        <h3 id="shop">Art workshop</h3>
+
+    </div>
+    <div id="music" style="width: 1300px; height:80px; background-color: coral; border-radius: 10px;">
+       <h3 id="shop">music jaming</h3>  
+    </div> 
+    <div id="perfor" style="width: 1300px; height:80px; background-color: coral; border-radius: 10px;" >
+<h3 id="shop">juggling performance</h3> 
+    </div> 
+    <div id="parties" style="width: 1300px; height:80px; background-color: coral; border-radius: 10px;"  >
+<h3 id="shop">parties</h3>
+    </div> 
+    <div class="number" style="width: 1800px; height:600px; background-color: aliceblue;">
+        <h1 id="get" style="color: red;">Contact us</h1>
+        <br> <br>
+        <form action="">
+            <label for="">name</label>
+            <br>
+            <br>
+            <input type="text">
+            <br>
+            <br>
+            <label for="">email</label>
+            <br>
+            <br>
+            <input type="text">
+            <br>
+            <br>
+            <label for="">message</label>
+            <br>
+            <br>
+            <input type="text">
+            <br><br>
+            <button class="last" style="background-color: red; border-radius: 10;">send meaasge</button>
+
+        </form>
+
+         
+    </div>
+
+    
+
+    </div>
+
+
+    
+    
+    
+</body>
+</html>
