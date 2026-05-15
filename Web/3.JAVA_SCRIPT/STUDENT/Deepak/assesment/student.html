@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student</title>
+</head>
+<body>
+    <h1>Student mark table</h1>
+
+    <input type="text" id="name" placeholder="enter student name">
+    <input type="number" id="mark" placeholder="enter the mark ">
+
+    <input type="button" onclick="add1()" value="ADD">
+
+    <table border="1" id="table1">
+        <tr>
+            <th>Name</th>
+            <th>Mark</th>
+            <th>Update</th>
+        </tr>
+        </table>
+
+
+
+        <script>
+
+            function add1(){
+
+                let name = document.getElementById("name").value;
+                let mark = document.getElementById("mark").value;
+
+                let row = document.createElement('tr');
+
+                let nametd = document.createElement('td');
+                nametd.textContent = name;
+
+                let marktd = document.createElement('td');
+                marktd.textContent = mark;
+
+                let updatetd = document.createElement('td');
+
+                let updatebtn = document.createElement('button');
+                updatebtn.textContent = "Edit";
+
+                updatebtn.onclick = function update1(){
+                    let newName = prompt("enter new name");
+
+                    let newMark = prompt("enter the  mark");
+
+                    if(newName !== null || newName !== "")
+                {
+                    nametd.textContent = newName;
+                }
+
+                if(newMark !== null || newMark !== ""){
+                    marktd.textContent = newMark;
+                }
+            };
+
+                
+                
+                
+                
+
+            let deletebtn = document.createElement('button');
+
+            deletebtn.textContent = "Delete";
+
+            deletebtn.onclick=
+
+            function delete1()
+            {
+                row.remove();
+            }
+            updatetd.appendChild(updatebtn);
+            updatetd.appendChild(deletebtn);
+
+            row.appendChild(nametd);
+            row.appendChild(marktd);
+            row.appendChild(updatetd);
+
+            document.getElementById('table1').appendChild(row);
+
+            document.getElementById('name').value = " ";
+            document.getElementById('mark').value = " ";
+        }
+
+        </script>
+    
+</body>
+</html>
