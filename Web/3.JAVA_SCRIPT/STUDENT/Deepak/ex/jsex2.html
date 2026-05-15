@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #leftcontainer{
+    width: 200px;
+    height: 700px;
+    background-color: rgb(95, 95, 242);
+    }
+    #all-jobs{
+        width: 20px;
+        height: 20px;
+        margin-left: 25px;
+        margin-top: 20px;
+    }
+     #my-applications{
+        width: 20px;
+        height: 20px;
+        margin-left: 25px;
+        margin-top: 20px;
+    }
+     #messages{
+        width: 20px;
+        height: 20px;
+        margin-left: 25px;
+        margin-top: 20px;
+    }
+     #my-profile{
+        width: 20px;
+        height: 20px;
+        margin-left: 25px;
+        margin-top: 20px;
+    }
+     #settings{
+        width: 20px;
+        height: 20px;
+        margin-left: 25px;
+        margin-top: 20px;
+    }
+       #h4{
+        font-family: 'Courier New', Courier, monospace; 
+        color: white; 
+        font-size: 15px; 
+        text-align: left;
+         position: relative;
+               top: 200px;
+               left: 5px;
+       }
+            #profile{
+              position: absolute;
+              top: 510px;
+                left: 5px;
+                width: 30px;
+                height: 30px;
+            }
+                #p1{
+                    font-family: 'Courier New', Courier, monospace; 
+                    color: white; 
+                    font-size: 10px;
+                    position: absolute;
+                top: 500px;
+                left: 42px;
+                }
+                #p2{
+                    font-family: 'Courier New', Courier, monospace; 
+                    color: rgb(15, 8, 8); 
+                    font-size: 10px;
+                    position: absolute;
+                top: 520px;
+                left: 42px;
+                }
+                #logout{
+                    border-radius: 10px;
+                        width: 90px;
+                        height: 20px;
+                    position: absolute;
+                    top: 550px;
+                    left: 40px;
+                    background-color: seashell;
+                }
+                #logout-icon{
+                   position: relative;
+                   left: 5px;
+                     top: 2px;
+                }
+               
+                #p3{
+                    font-family:'Courier New', Courier, monospace ; 
+                    font-size: 15px;
+                    font-weight: bold;
+                    position: absolute;
+                    left: 50px;
+                }
+                #footer
+                {
+                    position: absolute;
+                    top: 710px;
+                    height: 55px;
+                    width:1500px;
+                    background-color: black;
+                }
+                #content
+                {
+                    position: absolute;
+                    top: 60px;
+                    left: 270px;
+                    width: 250px;
+                    background-color: white;
+                    height: 500px;
+
+                }
+                 #content2
+                {
+                    position: absolute;
+                    top: 60px;
+                    left: 530px;
+                    width: 250px;
+                    background-color: white;
+                    height: 500px;
+
+                }
+        </style>
+</head>
+<body>
+ <div id = leftcontainer>
+     <h1 style="font-family: 'Courier New', Courier, monospace; color: black; font-size: 20px; text-align: center;">Hire me Now!</h1>
+     <img id="all-jobs" src="application (1) 1.png"><font color="black">All Jobs
+     <br>
+        <img id="my-applications" src="application (1) 1.png"><font color="black" class="sideh"> My Applications<br>
+        <img id="messages" src="application (1) 1.png"><font color="black" >Messages<br>
+        <img id="my-profile" src="application (1) 1.png"><font color="black" >interview<br>
+        <img id="settings" src="application (1) 1.png"><font color="black" >settings
+
+            <p id="h4">profile</p>
+            <img id="profile" src="images/girl.png">
+            <p id="p1">Leslie Alexander</p>
+            <p id="p2">profile Account</p>
+            <div id="logout">
+               <img id="logout-icon" src="images/exit 1.png" height="12px"><font color="black">&nbsp;&nbsp;Logout</font>
+                </div>
+        </div>
+        <div id="footer">
+            </div>
+            <div id="content">
+                  
+            </div>
+            <div id="content2">
+                </div>
+
+            <script>
+             var applicantList = [
+    { name: "Alex", image: "m1.png",  experience: "2 years", education: "MCA",location: "guruvayur"},
+    { name: "Ameya", image: "m2.png",  experience: "2 years", education:"BCA",location: "chavakkad" }
+];
+var applicationList2 = [
+    {name: "deepak",image:"girl.png",experience: "2 years",education: "10th",location: "kaveed"},
+    {name: "Abhinav",image:"m2.png",experience:"3years",education: "12",location: "pavarty"}
+];
+listApplicants();
+function listApplicants() {
+    var content = document.getElementById('content');
+   for(let value in applicantList) {
+   
+        //creating div for each item in the array
+        var cardDiv = document.createElement('p');
+        var image = document.createElement('img');
+        image.src = applicantList[value].image;
+        var edu = document.createElement('p');
+        edu.textContent = applicantList[value].education;
+        var name=document.createElement('b');
+        name.textContent = applicantList[value].name;
+        var experience=document.createElement('p');
+        experience.textContent=applicantList[value].experience;
+        var location = document.createElement('p');
+        location.textContent = applicantList[value].location;
+        // console.log(item.image);
+        cardDiv.appendChild(image);
+        cardDiv.appendChild(name);
+        cardDiv.appendChild(experience);
+        cardDiv.appendChild(edu);
+        cardDiv.appendChild(location);
+        content.appendChild(cardDiv);
+   
+   }
+}
+listApplicants1();
+function listApplicants1() {
+    var content1 = document.getElementById('content2');
+   for(let value in applicationList2) {
+   
+        //creating div for each item in the array
+        var cardDiv1 = document.createElement('p');
+        var image = document.createElement('img');
+        image.src = applicationList2[value].image;
+        var edu = document.createElement('p');
+        edu.textContent = applicationList2[value].education;
+        var name=document.createElement('b');
+        name.textContent = applicationList2[value].name;
+        var experience=document.createElement('p');
+        experience.textContent=applicationList2[value].experience;
+        var location = document.createElement('p');
+        location.textContent =applicationList2[value].location;
+        // console.log(item.image);
+        cardDiv1.appendChild(image);
+        cardDiv1.appendChild(name);
+        cardDiv1.appendChild(experience);
+        cardDiv1.appendChild(edu);
+        cardDiv1.appendChild(location);
+        content1.appendChild(cardDiv1);
+   
+   }
+}
+
+            </script>
+</body>
+</html>
