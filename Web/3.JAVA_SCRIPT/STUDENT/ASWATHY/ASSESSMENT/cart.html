@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #one
+    {
+        position: absolute;
+        left: 900px;
+    }
+    #two
+    {
+        position: absolute;
+        left:1500 px;
+
+    }
+    #three
+    {
+        position:absolute;
+        left:1800px;
+    }
+    #total
+    {
+        position: absolute;
+        top: 500px;
+    }
+
+
+        
+    </style>
+    
+        .
+    
+</head>
+<body>
+    <h1><B>PRODUCTS</B></h1>
+    <button id="one" onclick="addtocart('apple',30)" style="color:blue;" ; "><b>apple,30</b></button>
+    <button id="two" onclick="addtocart('orange',30)" style="color: red"><b>orange,30</b></button>
+    <button  id="three" onclick="addtocart('banana',50)" style="color: orange"><b>banana,50</b></button>
+    
+    
+    <ul id="cart" style="color: blue;"><b>CART</b></ul>
+    <p id="total"></p>
+    <script>
+        let total=0;
+        
+        function addtocart(product,price){
+                 let cart1=document.getElementById('cart');
+                 let li1=document.createElement('li');
+                 cart1.appendChild(li1);
+                 li1.innerText= product +":"+ price;
+
+
+                 total+=price;
+                 
+
+                 
+
+
+
+
+              let total1=document.getElementById('total');
+              total1.innerHTML="total :" + total;
+
+        }
+
+    </script>
+    
+</body>
+</html>
