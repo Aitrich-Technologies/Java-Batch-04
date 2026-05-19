@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+         #container1{
+      width:500px;
+      height: 600px;
+      overflow:hidden;
+      left: 100px;
+    }
+    #container2{
+      display:flex;
+      width:300%;
+      animation: slide 3s infinite;
+    }
+    #container2 img{
+      width:500px;
+      height:600px;
+      object-fit:cover;
+    }
+
+    @keyframes slide{
+      0%{
+        transform:translateX(0);
+      }
+      50%{
+        transform:translateX(-500px);
+      }
+
+      100%{
+        transform:translateX(-1000px);
+      }
+    }
+
+
+    </style>
+</head>
+<body>
+<div id="container1">
+    <div id="container2">
+        <img src="girl.png" alt="img1">
+        <img src="girl.png" alt="img2">
+        <img src="girl.png" alt="img3">
+
+    </div>
+    </div>
+          
+    <p style="position: absolute; font-size: 30px; left: 800px; top: 100px;">sign in to admin dashboard</p>
+    <p style="position: absolute; left: 1000px; top: 200px; color: red;" id="erreml"></p>
+    <p style="position: absolute; left: 1000px; top: 260px; color: red;" id="errpass"></p>
+
+    <form action="" onsubmit="return validation()" style="position: absolute; left: 800px; top: 200px;">
+     <label for="Email">Email</label>
+     <br>
+     <input type="text" name="" id="email">
+    <br>
+    <br>
+    <label for="password">password</label>
+    <br>
+    <input type="password" name="" id="password">
+
+    <input type="submit" value="Sign in" id="button" style="position: absolute; top: 150px; left: 0px; width: 170px;height: 30px; background-color: aqua;">
+
+    </form>
+    
+
+    <script>
+      let email = document.getElementById("email");
+      let password = document.getElementById("password");
+
+      let p1 = document.getElementById("erreml");
+      let p2 = document.getElementById("errpass");
+
+      function validation(){
+        p1.innerText= "";
+        p2.innerText= "";
+        let emailRegex=/^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        if(email.value == ""|| email.value == null)
+      {
+        p1.innerText="***enter your email***";
+        return false;
+      }
+      else if(!emailRegex.test(email.value))
+      {
+        p1.innerText="***invalide Email***";
+        return false;
+      }
+
+      let passwordRegex=/^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{8,}$/;
+
+      if(password.value == ""||password.value == null)
+      {
+        p2.innerText="**enter your password**";
+        return false;
+      }
+      else if(!passwordRegex.test(password.value))
+      {
+       p2.innerText="Password must contain at least 8 characters, including a letter and a number";
+       return false;
+      }
+      return true;
+    }
+    </script>
+</body>
+</html>

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .dashboard
+    {
+        background-color: cornflowerblue;
+        position:absolute ;
+        height: 1100px;
+        width: 350px;
+    }
+    .tr1:hover
+    {
+background-color:whitesmoke;
+    }
+    .pic1
+        {
+            position: absolute;
+            top: 200px;
+            margin-left: 1000px;
+            
+
+        }
+        .program
+        {
+            position: absolute;
+            top: 300px;
+            margin-left: 550px;
+            
+        }
+        #bell
+        {
+            position: absolute;
+            top:90px;
+            margin-left: 1800px;
+        }
+        #girl1
+        {
+            position: absolute;
+            top:90px;
+            margin-left: 1900px ;
+        }
+        #exit
+        {
+            position: absolute;
+            top:90px;
+            margin-left:2000px ;
+        }
+
+
+    </style>
+</head>
+<body>
+    <div class="dashboard">
+<table align="center" style="color:gray;" cellspacing="5">
+    <br><br><br>
+    <th>
+        <img src="images/Aitrich new Favicon.jpeg" height="35" width="35"><b><font size="30">jobie</font></b>
+    </th> 
+</table>
+<br><br><br>
+    
+        <table align="center"  style="color:black; font-size: large; font-style: normal;" cellspacing="20" cellpadding="10">
+        <tr class="tr1">
+            <td>
+                <img src="images/dashboard 1.png" height="20" width="20">&nbsp;&nbsp;&nbsp;Dashboard
+            </td>
+        </tr>
+        <tr class="tr1">
+            <td>
+                <img src="images/suitcase 2.png" height="20" width="20">&nbsp;&nbsp;&nbsp;job
+            </td>  
+        </tr>
+        <tr class="tr1">
+          <td>
+                <img src="images/application (1) 1.png" height="20" width="20">&nbsp;&nbsp;&nbsp;New registration
+            </td>   
+        </tr>
+        <tr class="tr1">
+          <td>
+                <img src="images/suitcase 2.png" height="20" width="20">&nbsp;&nbsp;&nbsp;Job seeker
+            </td>   
+        </tr>
+        <tr class="tr1">
+          <td>
+                <img src="images/suitcase 2.png" height="20" width="20">&nbsp;&nbsp;&nbsp;Jobs
+            </td>   
+        </tr>
+        <tr class="tr1">
+         <td>
+                <img src="images/message 1.png" height="20" width="20">&nbsp;&nbsp;&nbsp;My profile
+            </td>    
+        </tr>
+        <tr class="tr1">
+         <td>
+                <img src="images/message 1.png" height="20" width="20">&nbsp;&nbsp;&nbsp;Message
+            </td>    
+        </tr>
+        <tr class="tr1">
+            <td>
+                <img src="images/settings 1.png" height="20" width="20">&nbsp;&nbsp;&nbsp;settings
+            </td>
+        </tr>
+        <tr class="tr1">
+            <td>
+             <img src="images/exit 1.png" height="20" width="20">&nbsp;&nbsp;&nbsp;Logout 
+            </td>
+        </tr>
+        </table>
+    </div>
+</div> 
+<div class="pic1">
+    <img src="young-attractive-teenage-girl-wearing-striped-casual-t-shirt-posing-against-pink-wall-with-charming-smile-looks-happy 1 (1).png" alt="" height="800px" width="800px" >
+
+</div>
+<div class="program" style="height: 500px; width: 500px;">
+    hai
+    <div id="first">
+        <div id="card" class="image-card" name="content">
+            <div class="content" id="content">
+            </div>
+          
+
+
+        </div>
+
+    </div>
+
+</div>
+<div id="bell"> <img src="IMAGE1/notification (1).png" alt=""></div>
+<div id="girl1"><img src="IMAGE1/girl.png" alt=""></div>
+<div id="exit"><img src="IMAGE1/exit 1.png" alt=""></div>
+<script>var applicantList = [
+    { post: "social media assistant", image: "IMAGE1/favicon.png",  location: "online", date:"18-06-23", time:"10am" },
+    { post: "brand designer", image: "IMAGE1/favicon.png",  location: "online",date:"18-06-23" , time:"11am" },
+    { post: "customer manager", image: "IMAGE1/favicon.png", location: "online",date:"18-06-23" , time:"12am" },
+];
+listApplicants();
+function listApplicants() {
+    //var contentDiv = document.getElementById('card');
+    // var content = document.getElementById('content');
+   
+   for(let value in applicantList) {
+
+    
+        var cardDiv = document.createElement('p');
+        var image = document.createElement('img');
+        image.src = applicantList[value].image;
+        var post=document.createElement('b');
+        post.textContent = applicantList[value].post;
+        var date=document.createElement('p');
+        date.textContent=applicantList[value].date;
+    
+        var location=document.createElement('P');
+        location.textContent=applicantList[value].location;
+
+        var time=document.createElement('p');
+        time.textContent=applicantList[value].time;
+
+        
+        cardDiv.appendChild(image);
+        cardDiv.appendChild(post);
+        cardDiv.appendChild(date);
+        cardDiv.appendChild(location);
+        cardDiv.appendChild(time);
+        contentDiv.appendChild(cardDiv);
+   
+   }
+    
+}
+
+    
+
+
+
+
+    
+
+    
+
+
+</script>
+    
+</body>
+</html>
