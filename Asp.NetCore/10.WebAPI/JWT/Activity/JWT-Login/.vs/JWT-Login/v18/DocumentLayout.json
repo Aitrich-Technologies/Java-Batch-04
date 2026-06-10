@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\JWT\\Activity\\JWT-Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\jwt\\activity\\jwt-login\\jwt-login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|solutionrelative:jwt-login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\jwt\\activity\\jwt-login\\jwt-login\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|solutionrelative:jwt-login\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\jwt\\activity\\jwt-login\\jwt-login\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|solutionrelative:jwt-login\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\jwt\\activity\\jwt-login\\jwt-login\\model\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|solutionrelative:jwt-login\\model\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\jwt\\activity\\jwt-login\\jwt-login\\model\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|solutionrelative:jwt-login\\model\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\jwt\\activity\\jwt-login\\jwt-login\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|solutionrelative:jwt-login\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\jwt\\activity\\jwt-login\\jwt-login\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|solutionrelative:jwt-login\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\jwt\\activity\\jwt-login\\jwt-login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|solutionrelative:jwt-login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\jwt\\activity\\jwt-login\\jwt-login\\jwt-login.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|solutionrelative:jwt-login\\jwt-login.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\jwt\\activity\\jwt-login\\jwt-login\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F475D727-F2E3-4D0C-93F0-9FB41D462CC9}|JWT-Login\\JWT-Login.csproj|solutionrelative:jwt-login\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\Model\\User.cs",
+              "RelativeDocumentMoniker": "JWT-Login\\Model\\User.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\Model\\User.cs",
+              "RelativeToolTip": "JWT-Login\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T14:29:18.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\Model\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "JWT-Login\\Model\\UserDbContext.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\Model\\UserDbContext.cs",
+              "RelativeToolTip": "JWT-Login\\Model\\UserDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T14:29:17.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\Model\\LoginDto.cs",
+              "RelativeDocumentMoniker": "JWT-Login\\Model\\LoginDto.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\Model\\LoginDto.cs",
+              "RelativeToolTip": "JWT-Login\\Model\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T14:29:15.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\Model\\UserDto.cs",
+              "RelativeDocumentMoniker": "JWT-Login\\Model\\UserDto.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\Model\\UserDto.cs",
+              "RelativeToolTip": "JWT-Login\\Model\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T17:30:29.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\appsettings.json",
+              "RelativeDocumentMoniker": "JWT-Login\\appsettings.json",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\appsettings.json",
+              "RelativeToolTip": "JWT-Login\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-07T17:16:53.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\Program.cs",
+              "RelativeDocumentMoniker": "JWT-Login\\Program.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\Program.cs",
+              "RelativeToolTip": "JWT-Login\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:35:13.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JWT-Login.http",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\JWT-Login.http",
+              "RelativeDocumentMoniker": "JWT-Login\\JWT-Login.http",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\JWT-Login.http",
+              "RelativeToolTip": "JWT-Login\\JWT-Login.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-01-07T19:54:37.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "JWT-Login\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\Controllers\\UserController.cs",
+              "RelativeToolTip": "JWT-Login\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAF0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:27:44.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\Enum\\UserRole.cs",
+              "RelativeDocumentMoniker": "JWT-Login\\Enum\\UserRole.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\Enum\\UserRole.cs",
+              "RelativeToolTip": "JWT-Login\\Enum\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:35:08.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "JWT-Login\\WeatherForecast.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\JWT\\Activity\\JWT-Login\\JWT-Login\\WeatherForecast.cs",
+              "RelativeToolTip": "JWT-Login\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:35:12.311Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

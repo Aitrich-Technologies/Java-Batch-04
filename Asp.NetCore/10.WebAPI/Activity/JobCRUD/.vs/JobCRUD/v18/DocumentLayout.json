@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\jobcrud\\domain\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|solutionrelative:domain\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D56B933-230A-4BA3-A780-C8FDCF111085}|JobCRUD\\JobCRUD.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\jobcrud\\jobcrud\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D56B933-230A-4BA3-A780-C8FDCF111085}|JobCRUD\\JobCRUD.csproj|solutionrelative:jobcrud\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\jobcrud\\domain\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|solutionrelative:domain\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\jobcrud\\domain\\interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|solutionrelative:domain\\interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\jobcrud\\domain\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|solutionrelative:domain\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\jobcrud\\domain\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|solutionrelative:domain\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\jobcrud\\domain\\dtos\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|solutionrelative:domain\\dtos\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\jobcrud\\domain\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|solutionrelative:domain\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\jobcrud\\domain\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|solutionrelative:domain\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\jobcrud\\domain\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|solutionrelative:domain\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\jobcrud\\domain\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\jobcrud\\domain\\migrations\\20250317093609_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0127CE81-5036-4AD4-B2AA-A6165F5D3A2F}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\20250317093609_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D56B933-230A-4BA3-A780-C8FDCF111085}|JobCRUD\\JobCRUD.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\jobcrud\\jobcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D56B933-230A-4BA3-A780-C8FDCF111085}|JobCRUD\\JobCRUD.csproj|solutionrelative:jobcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\Domain\\Service\\JobService.cs",
+              "RelativeDocumentMoniker": "Domain\\Service\\JobService.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\Domain\\Service\\JobService.cs",
+              "RelativeToolTip": "Domain\\Service\\JobService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T07:01:19.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\JobCRUD\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "JobCRUD\\Controllers\\JobsController.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\JobCRUD\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "JobCRUD\\Controllers\\JobsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T04:27:50.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IJobRepository.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\Domain\\Interface\\IJobRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interface\\IJobRepository.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\Domain\\Interface\\IJobRepository.cs",
+              "RelativeToolTip": "Domain\\Interface\\IJobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T15:03:19.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\Domain\\Interface\\IJobService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interface\\IJobService.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\Domain\\Interface\\IJobService.cs",
+              "RelativeToolTip": "Domain\\Interface\\IJobService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T15:03:20.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\Domain\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Domain\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\Domain\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Domain\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T13:12:15.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\Domain\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Domain\\Helper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\Domain\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Domain\\Helper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T14:03:57.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobDTO.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\Domain\\DTOs\\JobDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\DTOs\\JobDTO.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\Domain\\DTOs\\JobDTO.cs",
+              "RelativeToolTip": "Domain\\DTOs\\JobDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T14:04:03.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\Domain\\Repository\\JobRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repository\\JobRepository.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\Domain\\Repository\\JobRepository.cs",
+              "RelativeToolTip": "Domain\\Repository\\JobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T07:01:17.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\Domain\\Model\\Job.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Job.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\Domain\\Model\\Job.cs",
+              "RelativeToolTip": "Domain\\Model\\Job.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T06:48:11.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\Domain\\Model\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\Domain\\Model\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Domain\\Model\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T06:48:10.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\Domain\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\Domain\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Domain\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T19:00:18.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250317093609_Initial.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\Domain\\Migrations\\20250317093609_Initial.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20250317093609_Initial.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\Domain\\Migrations\\20250317093609_Initial.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20250317093609_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T19:00:17.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\JobCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "JobCRUD\\Program.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobCRUD\\JobCRUD\\Program.cs",
+              "RelativeToolTip": "JobCRUD\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T04:57:49.004Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

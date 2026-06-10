@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\8. Blazor\\Activity\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47D1891F-89D5-4750-8FE8-F89540C5CA99}|Activity\\Activity.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\8. blazor\\activity\\bookstore\\activity\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47D1891F-89D5-4750-8FE8-F89540C5CA99}|Activity\\Activity.csproj|solutionrelative:activity\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D1891F-89D5-4750-8FE8-F89540C5CA99}|Activity\\Activity.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\8. blazor\\activity\\bookstore\\activity\\data\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D1891F-89D5-4750-8FE8-F89540C5CA99}|Activity\\Activity.csproj|solutionrelative:activity\\data\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D1891F-89D5-4750-8FE8-F89540C5CA99}|Activity\\Activity.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\8. blazor\\activity\\bookstore\\activity\\data\\budgetbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D1891F-89D5-4750-8FE8-F89540C5CA99}|Activity\\Activity.csproj|solutionrelative:activity\\data\\budgetbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\8. Blazor\\Activity\\BookStore\\Activity\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Activity\\Pages\\Index.razor",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\8. Blazor\\Activity\\BookStore\\Activity\\Pages\\Index.razor",
+              "RelativeToolTip": "Activity\\Pages\\Index.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-01T10:27:40.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entry.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\8. Blazor\\Activity\\BookStore\\Activity\\Data\\Entry.cs",
+              "RelativeDocumentMoniker": "Activity\\Data\\Entry.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\8. Blazor\\Activity\\BookStore\\Activity\\Data\\Entry.cs",
+              "RelativeToolTip": "Activity\\Data\\Entry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T10:27:23.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BudgetBookService.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\8. Blazor\\Activity\\BookStore\\Activity\\Data\\BudgetBookService.cs",
+              "RelativeDocumentMoniker": "Activity\\Data\\BudgetBookService.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\8. Blazor\\Activity\\BookStore\\Activity\\Data\\BudgetBookService.cs",
+              "RelativeToolTip": "Activity\\Data\\BudgetBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T10:27:10.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

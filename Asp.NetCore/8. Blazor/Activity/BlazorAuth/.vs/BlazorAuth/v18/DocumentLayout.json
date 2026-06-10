@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\8. Blazor\\Activity\\BlazorAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\8. blazor\\activity\\blazorauth\\blazorauth\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|solutionrelative:blazorauth\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\8. blazor\\activity\\blazorauth\\blazorauth\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|solutionrelative:blazorauth\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\8. blazor\\activity\\blazorauth\\blazorauth\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|solutionrelative:blazorauth\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\8. blazor\\activity\\blazorauth\\blazorauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|solutionrelative:blazorauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\8. blazor\\activity\\blazorauth\\blazorauth\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|solutionrelative:blazorauth\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\8. blazor\\activity\\blazorauth\\blazorauth\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99470405-5633-4FBC-A231-C1B32D9E8EFD}|BlazorAuth\\BlazorAuth.csproj|solutionrelative:blazorauth\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.razor",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\8. Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "BlazorAuth\\Pages\\Register.razor",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\8. Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Pages\\Register.razor*",
+              "RelativeToolTip": "BlazorAuth\\Pages\\Register.razor*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T08:37:55.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\8. Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorAuth\\Program.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\8. Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Program.cs",
+              "RelativeToolTip": "BlazorAuth\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T08:37:30.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\8. Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "BlazorAuth\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\8. Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Services\\AuthService.cs",
+              "RelativeToolTip": "BlazorAuth\\Services\\AuthService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T08:26:12.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\8. Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "BlazorAuth\\Pages\\Login.razor",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\8. Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Pages\\Login.razor",
+              "RelativeToolTip": "BlazorAuth\\Pages\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T08:26:10.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\8. Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Model\\User.cs",
+              "RelativeDocumentMoniker": "BlazorAuth\\Model\\User.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\8. Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Model\\User.cs",
+              "RelativeToolTip": "BlazorAuth\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T08:26:03.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\8. Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Model\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BlazorAuth\\Model\\AppDbContext.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\8. Blazor\\Activity\\BlazorAuth\\BlazorAuth\\Model\\AppDbContext.cs",
+              "RelativeToolTip": "BlazorAuth\\Model\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T08:26:01.737Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

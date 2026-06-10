@@ -1,0 +1,15 @@
+C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\10.WebAPI\Activity\HireMeNow_API\ClassLibrary1\bin\Debug\net8.0\Domain.deps.json
+C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\10.WebAPI\Activity\HireMeNow_API\ClassLibrary1\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\10.WebAPI\Activity\HireMeNow_API\ClassLibrary1\bin\Debug\net8.0\Domain.dll
+C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\10.WebAPI\Activity\HireMeNow_API\ClassLibrary1\bin\Debug\net8.0\Domain.pdb
+C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\10.WebAPI\Activity\HireMeNow_API\ClassLibrary1\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\10.WebAPI\Activity\HireMeNow_API\ClassLibrary1\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\10.WebAPI\Activity\HireMeNow_API\ClassLibrary1\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\10.WebAPI\Activity\HireMeNow_API\ClassLibrary1\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\10.WebAPI\Activity\HireMeNow_API\ClassLibrary1\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\10.WebAPI\Activity\HireMeNow_API\ClassLibrary1\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\10.WebAPI\Activity\HireMeNow_API\ClassLibrary1\obj\Debug\net8.0\Domain.dll
+C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\10.WebAPI\Activity\HireMeNow_API\ClassLibrary1\obj\Debug\net8.0\refint\Domain.dll
+C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\10.WebAPI\Activity\HireMeNow_API\ClassLibrary1\obj\Debug\net8.0\Domain.pdb
+C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\10.WebAPI\Activity\HireMeNow_API\ClassLibrary1\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\10.WebAPI\Activity\HireMeNow_API\ClassLibrary1\obj\Debug\net8.0\ref\Domain.dll

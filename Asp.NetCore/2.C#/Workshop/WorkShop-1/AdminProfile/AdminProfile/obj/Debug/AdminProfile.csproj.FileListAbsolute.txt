@@ -1,0 +1,7 @@
+C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\2.C#\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe.config
+C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\2.C#\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe
+C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\2.C#\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.pdb
+C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\2.C#\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.AssemblyReference.cache
+C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\2.C#\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.CoreCompileInputs.cache
+C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\2.C#\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.exe
+C:\Aitrich Bootcamp\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\2.C#\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.pdb

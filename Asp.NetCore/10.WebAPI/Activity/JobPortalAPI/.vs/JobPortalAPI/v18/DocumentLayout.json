@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobPortalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33EDF4F4-B592-41A4-9C51-4D10A880A9B0}|JobPortalAPI\\JobPortalAPI.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\jobportalapi\\jobportalapi\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EDF4F4-B592-41A4-9C51-4D10A880A9B0}|JobPortalAPI\\JobPortalAPI.csproj|solutionrelative:jobportalapi\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EDF4F4-B592-41A4-9C51-4D10A880A9B0}|JobPortalAPI\\JobPortalAPI.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\jobportalapi\\jobportalapi\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EDF4F4-B592-41A4-9C51-4D10A880A9B0}|JobPortalAPI\\JobPortalAPI.csproj|solutionrelative:jobportalapi\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EDF4F4-B592-41A4-9C51-4D10A880A9B0}|JobPortalAPI\\JobPortalAPI.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\jobportalapi\\jobportalapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EDF4F4-B592-41A4-9C51-4D10A880A9B0}|JobPortalAPI\\JobPortalAPI.csproj|solutionrelative:jobportalapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EDF4F4-B592-41A4-9C51-4D10A880A9B0}|JobPortalAPI\\JobPortalAPI.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\jobportalapi\\jobportalapi\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EDF4F4-B592-41A4-9C51-4D10A880A9B0}|JobPortalAPI\\JobPortalAPI.csproj|solutionrelative:jobportalapi\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EDF4F4-B592-41A4-9C51-4D10A880A9B0}|JobPortalAPI\\JobPortalAPI.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\jobportalapi\\jobportalapi\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EDF4F4-B592-41A4-9C51-4D10A880A9B0}|JobPortalAPI\\JobPortalAPI.csproj|solutionrelative:jobportalapi\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EDF4F4-B592-41A4-9C51-4D10A880A9B0}|JobPortalAPI\\JobPortalAPI.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\jobportalapi\\jobportalapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EDF4F4-B592-41A4-9C51-4D10A880A9B0}|JobPortalAPI\\JobPortalAPI.csproj|solutionrelative:jobportalapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EDF4F4-B592-41A4-9C51-4D10A880A9B0}|JobPortalAPI\\JobPortalAPI.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\jobportalapi\\jobportalapi\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EDF4F4-B592-41A4-9C51-4D10A880A9B0}|JobPortalAPI\\JobPortalAPI.csproj|solutionrelative:jobportalapi\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EDF4F4-B592-41A4-9C51-4D10A880A9B0}|JobPortalAPI\\JobPortalAPI.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\jobportalapi\\jobportalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EDF4F4-B592-41A4-9C51-4D10A880A9B0}|JobPortalAPI\\JobPortalAPI.csproj|solutionrelative:jobportalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33EDF4F4-B592-41A4-9C51-4D10A880A9B0}|JobPortalAPI\\JobPortalAPI.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\jobportalapi\\jobportalapi\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EDF4F4-B592-41A4-9C51-4D10A880A9B0}|JobPortalAPI\\JobPortalAPI.csproj|solutionrelative:jobportalapi\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobPortalAPI\\JobPortalAPI\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "JobPortalAPI\\Controllers\\JobsController.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobPortalAPI\\JobPortalAPI\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "JobPortalAPI\\Controllers\\JobsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T06:14:43.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobPortalAPI\\JobPortalAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "JobPortalAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobPortalAPI\\JobPortalAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "JobPortalAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T06:14:41.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobPortalAPI\\JobPortalAPI\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "JobPortalAPI\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobPortalAPI\\JobPortalAPI\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "JobPortalAPI\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T05:48:27.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobPortalAPI\\JobPortalAPI\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "JobPortalAPI\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobPortalAPI\\JobPortalAPI\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "JobPortalAPI\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T05:34:16.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobPortalAPI\\JobPortalAPI\\Repository\\JobRepository.cs",
+              "RelativeDocumentMoniker": "JobPortalAPI\\Repository\\JobRepository.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobPortalAPI\\JobPortalAPI\\Repository\\JobRepository.cs",
+              "RelativeToolTip": "JobPortalAPI\\Repository\\JobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T05:34:07.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobPortalAPI\\JobPortalAPI\\Model\\Job.cs",
+              "RelativeDocumentMoniker": "JobPortalAPI\\Model\\Job.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobPortalAPI\\JobPortalAPI\\Model\\Job.cs",
+              "RelativeToolTip": "JobPortalAPI\\Model\\Job.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T04:56:43.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobPortalAPI\\JobPortalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "JobPortalAPI\\Program.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobPortalAPI\\JobPortalAPI\\Program.cs",
+              "RelativeToolTip": "JobPortalAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T05:17:14.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobPortalAPI\\JobPortalAPI\\Model\\User.cs",
+              "RelativeDocumentMoniker": "JobPortalAPI\\Model\\User.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobPortalAPI\\JobPortalAPI\\Model\\User.cs",
+              "RelativeToolTip": "JobPortalAPI\\Model\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T04:56:42.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobPortalAPI\\JobPortalAPI\\Model\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JobPortalAPI\\Model\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\JobPortalAPI\\JobPortalAPI\\Model\\ApplicationDbContext.cs",
+              "RelativeToolTip": "JobPortalAPI\\Model\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T04:56:40.647Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

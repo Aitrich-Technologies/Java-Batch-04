@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\4.Collection,Exception \u0026 LINQ\\Student\\Abhinav\\Assessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93ABDC3D-00F0-460D-9986-0885077F830E}|Assessment\\Assessment.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\4.collection,exception \u0026 linq\\student\\abhinav\\assessment\\assessment\\models\\cabservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93ABDC3D-00F0-460D-9986-0885077F830E}|Assessment\\Assessment.csproj|solutionrelative:assessment\\models\\cabservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93ABDC3D-00F0-460D-9986-0885077F830E}|Assessment\\Assessment.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\4.collection,exception \u0026 linq\\student\\abhinav\\assessment\\assessment\\models\\cab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93ABDC3D-00F0-460D-9986-0885077F830E}|Assessment\\Assessment.csproj|solutionrelative:assessment\\models\\cab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93ABDC3D-00F0-460D-9986-0885077F830E}|Assessment\\Assessment.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\4.collection,exception \u0026 linq\\student\\abhinav\\assessment\\assessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93ABDC3D-00F0-460D-9986-0885077F830E}|Assessment\\Assessment.csproj|solutionrelative:assessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93ABDC3D-00F0-460D-9986-0885077F830E}|Assessment\\Assessment.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\4.collection,exception \u0026 linq\\student\\abhinav\\assessment\\assessment\\exception\\cabnotexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93ABDC3D-00F0-460D-9986-0885077F830E}|Assessment\\Assessment.csproj|solutionrelative:assessment\\exception\\cabnotexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93ABDC3D-00F0-460D-9986-0885077F830E}|Assessment\\Assessment.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\4.collection,exception \u0026 linq\\student\\abhinav\\assessment\\assessment\\exception\\cabnotavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93ABDC3D-00F0-460D-9986-0885077F830E}|Assessment\\Assessment.csproj|solutionrelative:assessment\\exception\\cabnotavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93ABDC3D-00F0-460D-9986-0885077F830E}|Assessment\\Assessment.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\4.collection,exception \u0026 linq\\student\\abhinav\\assessment\\assessment\\exception\\alreadybookedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93ABDC3D-00F0-460D-9986-0885077F830E}|Assessment\\Assessment.csproj|solutionrelative:assessment\\exception\\alreadybookedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CabService.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\4.Collection,Exception \u0026 LINQ\\Student\\Abhinav\\Assessment\\Assessment\\Models\\CabService.cs",
+              "RelativeDocumentMoniker": "Assessment\\Models\\CabService.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\4.Collection,Exception \u0026 LINQ\\Student\\Abhinav\\Assessment\\Assessment\\Models\\CabService.cs",
+              "RelativeToolTip": "Assessment\\Models\\CabService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T11:31:30.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\4.Collection,Exception \u0026 LINQ\\Student\\Abhinav\\Assessment\\Assessment\\Program.cs",
+              "RelativeDocumentMoniker": "Assessment\\Program.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\4.Collection,Exception \u0026 LINQ\\Student\\Abhinav\\Assessment\\Assessment\\Program.cs",
+              "RelativeToolTip": "Assessment\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T11:31:16.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cab.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\4.Collection,Exception \u0026 LINQ\\Student\\Abhinav\\Assessment\\Assessment\\Models\\Cab.cs",
+              "RelativeDocumentMoniker": "Assessment\\Models\\Cab.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\4.Collection,Exception \u0026 LINQ\\Student\\Abhinav\\Assessment\\Assessment\\Models\\Cab.cs",
+              "RelativeToolTip": "Assessment\\Models\\Cab.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T11:31:13.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CabNotExistException.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\4.Collection,Exception \u0026 LINQ\\Student\\Abhinav\\Assessment\\Assessment\\Exception\\CabNotExistException.cs",
+              "RelativeDocumentMoniker": "Assessment\\Exception\\CabNotExistException.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\4.Collection,Exception \u0026 LINQ\\Student\\Abhinav\\Assessment\\Assessment\\Exception\\CabNotExistException.cs",
+              "RelativeToolTip": "Assessment\\Exception\\CabNotExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T11:31:11.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CabNotAvailableException.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\4.Collection,Exception \u0026 LINQ\\Student\\Abhinav\\Assessment\\Assessment\\Exception\\CabNotAvailableException.cs",
+              "RelativeDocumentMoniker": "Assessment\\Exception\\CabNotAvailableException.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\4.Collection,Exception \u0026 LINQ\\Student\\Abhinav\\Assessment\\Assessment\\Exception\\CabNotAvailableException.cs",
+              "RelativeToolTip": "Assessment\\Exception\\CabNotAvailableException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T11:31:10.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlreadyBookedException.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\4.Collection,Exception \u0026 LINQ\\Student\\Abhinav\\Assessment\\Assessment\\Exception\\AlreadyBookedException.cs",
+              "RelativeDocumentMoniker": "Assessment\\Exception\\AlreadyBookedException.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\4.Collection,Exception \u0026 LINQ\\Student\\Abhinav\\Assessment\\Assessment\\Exception\\AlreadyBookedException.cs",
+              "RelativeToolTip": "Assessment\\Exception\\AlreadyBookedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T11:31:09.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

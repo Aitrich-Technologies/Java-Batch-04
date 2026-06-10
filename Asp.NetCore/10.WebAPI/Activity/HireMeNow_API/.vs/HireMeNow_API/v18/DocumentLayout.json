@@ -1,0 +1,379 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\hiremenow_api\\classlibrary1\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|solutionrelative:classlibrary1\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\hiremenow_api\\classlibrary1\\models\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|solutionrelative:classlibrary1\\models\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\hiremenow_api\\classlibrary1\\models\\jobseekerprofileskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|solutionrelative:classlibrary1\\models\\jobseekerprofileskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\hiremenow_api\\classlibrary1\\models\\jobseekerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|solutionrelative:classlibrary1\\models\\jobseekerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\hiremenow_api\\classlibrary1\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|solutionrelative:classlibrary1\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\hiremenow_api\\classlibrary1\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|solutionrelative:classlibrary1\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\hiremenow_api\\classlibrary1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|solutionrelative:classlibrary1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\hiremenow_api\\classlibrary1\\services\\authuser\\authuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|solutionrelative:classlibrary1\\services\\authuser\\authuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\hiremenow_api\\classlibrary1\\services\\login\\interfaces\\iloginrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|solutionrelative:classlibrary1\\services\\login\\interfaces\\iloginrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\hiremenow_api\\classlibrary1\\services\\email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|solutionrelative:classlibrary1\\services\\email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\hiremenow_api\\classlibrary1\\services\\email\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|solutionrelative:classlibrary1\\services\\email\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\hiremenow_api\\classlibrary1\\helpers\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|solutionrelative:classlibrary1\\helpers\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\hiremenow_api\\classlibrary1\\helpers\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|solutionrelative:classlibrary1\\helpers\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\hiremenow_api\\classlibrary1\\enum\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|solutionrelative:classlibrary1\\enum\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\hiremenow_api\\classlibrary1\\enum\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|solutionrelative:classlibrary1\\enum\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\hiremenow_api\\classlibrary1\\services\\authuser\\authuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|solutionrelative:classlibrary1\\services\\authuser\\authuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\hiremenow_api\\classlibrary1\\services\\authuser\\interfaces\\iauthuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|solutionrelative:classlibrary1\\services\\authuser\\interfaces\\iauthuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\hiremenow_api\\classlibrary1\\services\\authuser\\interfaces\\iauthuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|solutionrelative:classlibrary1\\services\\authuser\\interfaces\\iauthuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B41F1-5B96-462B-9974-B89C842F07C1}|HireMeNow_API\\HireMeNow_API.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\hiremenow_api\\hiremenow_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B41F1-5B96-462B-9974-B89C842F07C1}|HireMeNow_API\\HireMeNow_API.csproj|solutionrelative:hiremenow_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\hiremenow_api\\classlibrary1\\services\\login\\dtos\\jobseekerlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|solutionrelative:classlibrary1\\services\\login\\dtos\\jobseekerlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|c:\\aitrich bootcamp\\asp.net-core-full-stack-batch-27\\asp.netcore\\10.webapi\\activity\\hiremenow_api\\classlibrary1\\services\\authuser\\dto\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF8F401-3A86-47C1-BD2F-4D6C3E0FB382}|ClassLibrary1\\Domain.csproj|solutionrelative:classlibrary1\\services\\authuser\\dto\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Resume.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Models\\Resume.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\Resume.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Models\\Resume.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\Resume.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T05:20:29.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Qualification.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Models\\Qualification.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\Qualification.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Models\\Qualification.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\Qualification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T05:20:28.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Models\\AppDbContext.cs*",
+              "RelativeToolTip": "ClassLibrary1\\Models\\AppDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T08:49:14.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Models\\AuthUser.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\AuthUser.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Models\\AuthUser.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\AuthUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T08:49:19.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobSeeker.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Models\\JobSeeker.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\JobSeeker.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Models\\JobSeeker.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\JobSeeker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:44:31.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobSeekerProfile.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Models\\JobSeekerProfile.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\JobSeekerProfile.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Models\\JobSeekerProfile.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\JobSeekerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:44:32.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobSeekerProfileSkill.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Models\\JobSeekerProfileSkill.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\JobSeekerProfileSkill.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Models\\JobSeekerProfileSkill.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\JobSeekerProfileSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:44:33.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthUserRepository.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Services\\AuthUser\\AuthUserRepository.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\AuthUser\\AuthUserRepository.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Services\\AuthUser\\AuthUserRepository.cs",
+              "RelativeToolTip": "ClassLibrary1\\Services\\AuthUser\\AuthUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T09:10:19.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILoginRequestRepository.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Services\\Login\\Interfaces\\ILoginRequestRepository.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\Login\\Interfaces\\ILoginRequestRepository.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Services\\Login\\Interfaces\\ILoginRequestRepository.cs",
+              "RelativeToolTip": "ClassLibrary1\\Services\\Login\\Interfaces\\ILoginRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T09:11:13.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Services\\Email\\EmailService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\Email\\EmailService.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Services\\Email\\EmailService.cs",
+              "RelativeToolTip": "ClassLibrary1\\Services\\Email\\EmailService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAC0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T09:10:58.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Services\\Email\\Interface\\IEmailService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\Email\\Interface\\IEmailService.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Services\\Email\\Interface\\IEmailService.cs",
+              "RelativeToolTip": "ClassLibrary1\\Services\\Email\\Interface\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T09:10:57.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MailRequest.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Helpers\\MailRequest.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Helpers\\MailRequest.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Helpers\\MailRequest.cs",
+              "RelativeToolTip": "ClassLibrary1\\Helpers\\MailRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T09:06:42.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MailSettings.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Helpers\\MailSettings.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Helpers\\MailSettings.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Helpers\\MailSettings.cs",
+              "RelativeToolTip": "ClassLibrary1\\Helpers\\MailSettings.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T09:06:44.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Enum\\Status.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Enum\\Status.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Enum\\Status.cs",
+              "RelativeToolTip": "ClassLibrary1\\Enum\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T08:49:09.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Enum\\Role.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Enum\\Role.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Enum\\Role.cs",
+              "RelativeToolTip": "ClassLibrary1\\Enum\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T08:49:07.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthUserService.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Services\\AuthUser\\AuthUserService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\AuthUser\\AuthUserService.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Services\\AuthUser\\AuthUserService.cs",
+              "RelativeToolTip": "ClassLibrary1\\Services\\AuthUser\\AuthUserService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T09:10:44.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAuthUserService.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Services\\AuthUser\\Interfaces\\IAuthUserService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\AuthUser\\Interfaces\\IAuthUserService.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Services\\AuthUser\\Interfaces\\IAuthUserService.cs",
+              "RelativeToolTip": "ClassLibrary1\\Services\\AuthUser\\Interfaces\\IAuthUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T03:34:13.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\HireMeNow_API\\Program.cs",
+              "RelativeDocumentMoniker": "HireMeNow_API\\Program.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\HireMeNow_API\\Program.cs",
+              "RelativeToolTip": "HireMeNow_API\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:58:19.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAuthUserRepository.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Services\\AuthUser\\Interfaces\\IAuthUserRepository.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\AuthUser\\Interfaces\\IAuthUserRepository.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Services\\AuthUser\\Interfaces\\IAuthUserRepository.cs",
+              "RelativeToolTip": "ClassLibrary1\\Services\\AuthUser\\Interfaces\\IAuthUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T09:07:26.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JobSeekerLoginDto.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Services\\Login\\DTOs\\JobSeekerLoginDto.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\Login\\DTOs\\JobSeekerLoginDto.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Services\\Login\\DTOs\\JobSeekerLoginDto.cs",
+              "RelativeToolTip": "ClassLibrary1\\Services\\Login\\DTOs\\JobSeekerLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T09:11:06.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthUserDto.cs",
+              "DocumentMoniker": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Services\\AuthUser\\DTO\\AuthUserDto.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\AuthUser\\DTO\\AuthUserDto.cs",
+              "ToolTip": "C:\\Aitrich Bootcamp\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\10.WebAPI\\Activity\\HireMeNow_API\\ClassLibrary1\\Services\\AuthUser\\DTO\\AuthUserDto.cs",
+              "RelativeToolTip": "ClassLibrary1\\Services\\AuthUser\\DTO\\AuthUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T09:07:17.781Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
